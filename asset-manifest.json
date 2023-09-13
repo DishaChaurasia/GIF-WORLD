@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gif-world/static/css/main.29f614ae.css",
+    "main.js": "/gif-world/static/js/main.2cafb40e.js",
+    "index.html": "/gif-world/index.html",
+    "main.29f614ae.css.map": "/gif-world/static/css/main.29f614ae.css.map",
+    "main.2cafb40e.js.map": "/gif-world/static/js/main.2cafb40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f614ae.css",
+    "static/js/main.2cafb40e.js"
+  ]
+}
